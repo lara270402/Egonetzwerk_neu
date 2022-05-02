@@ -1,5 +1,5 @@
-id,name,sex,age,country
-1,P,2,57,Germany
-2,M,1,48,Turkey
-3,L,2,13,Germany
-4,H,1,21,Turkey
+id,sex,age,country
+P,2,57,Germany
+M,1,48,Turkey
+L,2,13,Germany
+H,1,21,Turkey
